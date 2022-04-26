@@ -1,12 +1,10 @@
 ## **Woah, you're here? 👀** <img align="right" src="https://avatars.githubusercontent.com/u/63190342?v=4" width="200" />
----
 I'm your average keyboard warrior. I mash keys to make my computers perform stuff.  
 I'm into creating **video games** ~~(and cheats for them 😳)~~, **hacky solutions**, **web applications** and just about anything that I can use my magic on.
 
 All of my code is neat, organized and mostly professional with proper commentation so you can feel free to glance over it.
 
 ## **Soo, you want to know me more? 😰**  
----
 <sub>Who doesn't love to flex anyways, I totally do.</sub>  
 ```js
 // Useless information to seem cool.
@@ -31,12 +29,6 @@ const Experience = {
     <img src="https://komarev.com/ghpvc/?username=x-adxtya">
 </p>
 
-<details>
-    <summary>
-    Open if you feel extra nosey. 🙄
-    </summary>
-    <p align="left">
-    | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=x-adxtya&show_icons=true&theme=codeSTACKr&include_all_commits=true&hide=prs,issues" alt="Aditya's GitHub Statistics" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x-adxtya&layout=compact&theme=codeSTACKr&hide_border=true" /></a> |
-        <img src="">
-    </p>
-</details>
+---  
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=x-adxtya&show_icons=true&theme=codeSTACKr&hide=prs,issues"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x-adxtya&layout=compact&theme=codeSTACKr&hide_border=true" /></a> |
+| ------------- | ------------- |
