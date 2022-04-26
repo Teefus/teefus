@@ -1,6 +1,6 @@
 ## **Woah, you're here? 👀** <img align="right" src="https://avatars.githubusercontent.com/u/63190342?v=4" width="200" />
 I'm your average keyboard warrior. I mash keys to make my computers perform stuff.  
-I'm into creating **video games** ~~(and cheats for them 😳)~~, **hacky solutions**, **web applications** and just about anything that I can use my magic on.
+I'm into creating **video games** ~~(and cheats for them)~~, **hacky solutions**, **web applications** and just about anything that I can use my magic on.
 
 All of my code is neat, organized and mostly professional with proper commentation so you can feel free to glance over it.
 
